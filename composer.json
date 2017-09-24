@@ -1,0 +1,18 @@
+{
+    "name": "train-late-api",
+    "description": "基于slim开发的查询火车到站时间的api接口",
+    "keywords": ["train", "slim", "train-query", "train-late"],
+    "homepage": "https://github.com/guandaxia/train-late-api",
+    "license": "MIT",
+    "authors": [{
+        "name": "guansixu",
+        "email": "guansixu@gmail.com",
+        "homepage": "http://guansixu.cn/"
+    }],
+    "require": {
+        "php": ">=5.5.0",
+        "slim/slim": "^3.8",
+        "slim/php-view": "^2.0",
+        "monolog/monolog": "^1.17"
+    }
+}
